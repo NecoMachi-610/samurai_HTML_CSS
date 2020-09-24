@@ -1,0 +1,46 @@
+/*------------------------------ menu --------------------------------*/
+.nav li {
+    font-size: 14px;
+    line-height: 2.5;
+}
+
+/* ---------------------------- header ------------------------------ */
+.header-li{
+    font-saize: 14px;
+    list-style: none;
+    display: flex;
+}
+
+.header-li li{
+    padding: 0px 5px;
+    border-left: 1px solid #000000;
+}
+
+.li-h{
+    border-right: 1px solid #000000;
+}
+
+
+/* ---------------------------- contents ---------------------------- */
+.contents-a{
+    font-size: 14px;
+    border-right: 1px solid #000000;
+}
+
+.contents-li{
+    font-size: 12px;
+}
+
+.photo{
+    float: left;
+    width: 220px;
+    height: 150px;
+}
+
+
+/* ---------------------------- footer ------------------------------ */
+
+.footer-a{
+    font-size: 2px;
+}
+
